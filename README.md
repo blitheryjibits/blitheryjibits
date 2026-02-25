@@ -6,6 +6,7 @@
 ![Node](images/node.png)
 ![React](images/react.png)
 
-<img src="https://github-readme-stats.vercel.app/api?username=blitheryjibits&show_icons=true&theme=gotham" />
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=blitheryjibits)](https://github.com/blitheryjibits/github-readme-stats)
 
 </div>
+
